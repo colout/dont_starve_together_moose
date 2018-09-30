@@ -2,7 +2,7 @@
 name = "Moo The Moose!"
 description = "Moo is a moose.  He's quite unremarkable (average hunger, sanity, health, etc), but he poos like a beefalo and has been known to pee himself (every 10-20 minutes).  His superpower is that he can eat his own food for a sanity boost."
 author = "colout"
-version = "0.0.1" -- This is the version of the template. Change it to your own number.
+version = "0.0.2" -- This is the version of the template. Change it to your own number.
 
 -- This is the URL name of the mod's thread on the forum; the part after the ? and before the first & in the url
 forumthread = "/files/file/950-extended-sample-character/"
